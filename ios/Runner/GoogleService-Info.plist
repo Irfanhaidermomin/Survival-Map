@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1027145931993-tfqn9r238u83oc618nvnug94pjki1jen.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1027145931993-tfqn9r238u83oc618nvnug94pjki1jen</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1027145931993-uls4t7gtban7u3doq7somekabv6mblkk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAPi-jkoo4O5g2ogfB-66rcrMbwaPGQ-7I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1027145931993</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.survivalMap</string>
+	<key>PROJECT_ID</key>
+	<string>survival-map-411db</string>
+	<key>STORAGE_BUCKET</key>
+	<string>survival-map-411db.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1027145931993:ios:8b368b4a992f4d79fcf2c8</string>
+</dict>
+</plist>

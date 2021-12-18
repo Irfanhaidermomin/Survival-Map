@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1027145931993",
+    "project_id": "survival-map-411db",
+    "storage_bucket": "survival-map-411db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027145931993:android:7e942660dccb28e4fcf2c8",
+        "android_client_info": {
+          "package_name": "com.example.survival_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027145931993-uls4t7gtban7u3doq7somekabv6mblkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.survival_map",
+            "certificate_hash": "423ab9d627b9e6efb64c93c8925e678beb7d71da"
+          }
+        },
+        {
+          "client_id": "1027145931993-as4jo7p7cbm4kcpsko6hfn8unu7cm039.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJW2UDbsrvmtLz2sLI9wsbL74hh5trLLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027145931993-as4jo7p7cbm4kcpsko6hfn8unu7cm039.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
